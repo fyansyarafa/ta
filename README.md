@@ -118,3 +118,4 @@ on OpenCV Haar training were a huge help. Thank you, Naotoshi!
 - [Material for Naotoshi Seo's tutorial](https://code.google.com/p/tutorial-haartraining/)
 - [OpenCV Documentation - Cascade Classifier Training](http://docs.opencv.org/doc/user_guide/ug_traincascade.html)
 # ta
+# ta
